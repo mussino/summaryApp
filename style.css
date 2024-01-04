@@ -4,31 +4,3 @@
     margin: 0;
     padding: 0;
 }
-main {
-    border: 1px solid black;
-    height: 100dvh;
-    font-family: 'Hanken Grotesk', sans-serif;
-}
-.top {
-    height: 40%;
-    background-color: hsl(241, 81%, 54%);
-    border-radius: 0px 0px 40px 40px;
-}
-.top h4 {
-    text-align: center;
-    padding: 20px 0;
-    font-size: 1.5rem;
-    color: white;
-    opacity: .4;
-}
-.circle {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    background-color: hsla(241, 72%, 46%, 2);
-    width: 100px;
-    height: 100px;
-    margin: 0 auto;
-    border-radius: 50px;
-}
