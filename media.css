@@ -1,0 +1,9 @@
+@media (max-width: 375px) {
+    .border {
+        display: block;
+    }
+   
+    .left h1 {
+        font-size: 3rem;
+    }
+}
